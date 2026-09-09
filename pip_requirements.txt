@@ -1,5 +1,5 @@
 docutils
 matplotlib
 pyamg
-pyvista
+pyvista<0.49.0
 vtk
